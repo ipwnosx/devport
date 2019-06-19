@@ -23,10 +23,9 @@ connect to apple developer portal without need any GUI written in PHP
 
 ### Credits
 
-- [Mokhlas Hussein][link-author]
+- [DEEZNUTZ][link-author]
 
 ### License
 
 GNU General Public License, version 3 Please see [License File](LICENSE)
 
-[link-author]: https://twitter.com/imokhles
